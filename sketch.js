@@ -86,3 +86,7 @@ function keyPressed(){
        // slingshot.attach(bird.body);
     }
 }
+
+function getTime() {
+    
+}
